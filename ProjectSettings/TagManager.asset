@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Wall
+  - SoundRune
+  - Trigger
+  - Tirion
   layers:
   - Default
   - TransparentFX
@@ -14,8 +17,8 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
+  - Player
+  - Tirion
   - 
   - 
   - 
