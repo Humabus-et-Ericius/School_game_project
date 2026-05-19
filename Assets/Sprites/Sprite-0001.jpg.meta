@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c148756101d1bdb47bd13b897a81e40e
+guid: 1de23710480b01a46bb8a68265d80f4c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 392005009192536306
-    second: White_Mage_0
+      213: -6007857137893288414
+    second: Sprite-0001_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: White_Mage_0
+      name: Sprite-0001_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 6
-        width: 30
-        height: 51
+        x: 0
+        y: 168
+        width: 850
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff4856cd1334d0489edb84bb7dc3624
+      internalID: -6007857137893288414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 850
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307970b231ded8d4486dd5cfb8501528
+      internalID: -1401653589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 850
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f8481b9a7ea07500800000000000000
-      internalID: 392005009192536306
+      spriteID: b23796878b884c24990c370a489ccd1c
+      internalID: -1033690338
       vertices: []
       indices: 
       edges: []
@@ -125,7 +169,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4b244a8d0df6a704ba50b2c8c27f4986
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +177,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":850.0,"y":302.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
     nameFileIdTable:
-      White_Mage_0: 392005009192536306
+      Sprite-0001_0: -6007857137893288414
+      Sprite-0001_1: -1033690338
+      Sprite-0001_2: -1401653589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
