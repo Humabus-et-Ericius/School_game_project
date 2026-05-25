@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -155,9 +168,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 161
-        width: 48
-        height: 28
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +189,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_1
       rect:
         serializedVersion: 2
-        x: 49
-        y: 161
-        width: 15
-        height: 28
+        x: 16
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +211,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 161
-        width: 64
-        height: 31
+        x: 32
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +233,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 96
-        height: 29
+        x: 48
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +255,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_4
       rect:
         serializedVersion: 2
-        x: 104
-        y: 138
-        width: 23
-        height: 21
+        x: 64
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +277,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 48
-        height: 61
+        x: 80
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +299,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_6
       rect:
         serializedVersion: 2
-        x: 48
-        y: 80
-        width: 80
-        height: 45
+        x: 96
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +321,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_7
       rect:
         serializedVersion: 2
-        x: 80
-        y: 65
-        width: 32
-        height: 28
+        x: 112
+        y: 160
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +343,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_8
       rect:
         serializedVersion: 2
-        x: 112
-        y: 65
+        x: 0
+        y: 128
         width: 16
-        height: 28
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +365,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 33
-        width: 32
-        height: 28
+        x: 16
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,9 +388,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 35
+        y: 128
         width: 16
-        height: 26
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +409,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_11
       rect:
         serializedVersion: 2
-        x: 49
-        y: 34
-        width: 15
-        height: 27
+        x: 48
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +431,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_12
       rect:
         serializedVersion: 2
-        x: 65
-        y: 34
-        width: 31
-        height: 27
+        x: 64
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +453,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_13
       rect:
         serializedVersion: 2
-        x: 96
-        y: 34
-        width: 32
-        height: 27
+        x: 80
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +475,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_14
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 26
-        height: 28
+        x: 96
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +497,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_15
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1
-        width: 32
-        height: 28
+        x: 112
+        y: 128
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +519,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_16
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1
-        width: 32
-        height: 21
+        x: 0
+        y: 96
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +541,10 @@ TextureImporter:
       name: SMW_player-pouse_Mario_17
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1
+        x: 16
+        y: 96
         width: 16
-        height: 20
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,6 +555,666 @@ TextureImporter:
       bones: []
       spriteID: 0cc956c7ab183da30800000000000000
       internalID: 4238874312236702912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42949fe8529762429e2cf2b1f1c98df
+      internalID: -188295137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271612cc7957ae4c9d5b85db5323622
+      internalID: 614585408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2bb8d7c71833943806d7d1648f0113
+      internalID: 1345097560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c65dd34db5e8849b12739fe9a80a1f
+      internalID: 279758905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104c1a4e51f85e42989ee6ed2d36c2a
+      internalID: 601781327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731565496d5eb87418bf6fba5d979842
+      internalID: -1762568115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285235e768e48e64d901806e0343b9f9
+      internalID: -787911539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f7661c13857d42ad9719e85898c15
+      internalID: 1619124227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04871f9f43ece949a1d9b165f76a8f6
+      internalID: -1831404045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cce9f3f7af389d44bac555b89f739f6
+      internalID: -1407247819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f2b00423851dc49ac4e6a1bcc682f7
+      internalID: 2031980602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a09ae2e7201341b759d5b533ee222
+      internalID: -2138776186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9b8c0f434456459c2906ff6c59916
+      internalID: -2102882716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5655fd5be7a94789daffefbc0925d
+      internalID: -151716556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ade34ce07ee9c4e8006938366e4775
+      internalID: -953411950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca702ff89c2cd464988280cb7651eb90
+      internalID: -1555976705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45418f9aad32479488709519b1c08636
+      internalID: -1073547987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af29840fba41a4e9a4b65d3362082c
+      internalID: -1573793704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9ed44b0593fc499c5b9665282a4bd
+      internalID: 258264774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ff3c03ab821241be0b89510d02e4b
+      internalID: 1293927807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d184825a82abf459e7eba633c1f6a8
+      internalID: -1437866848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc674dcca087184db000853b485d885
+      internalID: -1314904097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab22791e9ebffe7448a77f231fae400e
+      internalID: -207231890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bdc5255bd1a324997f2e6c32ba1172
+      internalID: -873775871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51cbdd5276412438e693730170ce0b
+      internalID: 640622071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f82d2760bcf254d8be73081e8f22ad
+      internalID: 1955975963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5dab8a8678a449a21470e8f835fa7
+      internalID: -783187872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ccb7f0184eec44a973389ccf0cbaa
+      internalID: 665288510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6f82a3489d8c499a500114a042491
+      internalID: 1677293959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW_player-pouse_Mario_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e298942ed9eb478f777fbd4543239
+      internalID: 1978594023
       vertices: []
       indices: 
       edges: []
@@ -560,7 +1233,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SMW_player-pouse_Mario_0: -3508510786071647427
       SMW_player-pouse_Mario_1: 1946184293888928530
@@ -572,9 +1245,39 @@ TextureImporter:
       SMW_player-pouse_Mario_15: -2085649101949581692
       SMW_player-pouse_Mario_16: 7205870673273691968
       SMW_player-pouse_Mario_17: 4238874312236702912
+      SMW_player-pouse_Mario_18: -188295137
+      SMW_player-pouse_Mario_19: 614585408
       SMW_player-pouse_Mario_2: 3803742072820801744
+      SMW_player-pouse_Mario_20: 1345097560
+      SMW_player-pouse_Mario_21: 279758905
+      SMW_player-pouse_Mario_22: 601781327
+      SMW_player-pouse_Mario_23: -1762568115
+      SMW_player-pouse_Mario_24: -787911539
+      SMW_player-pouse_Mario_25: 1619124227
+      SMW_player-pouse_Mario_26: -1831404045
+      SMW_player-pouse_Mario_27: -1407247819
+      SMW_player-pouse_Mario_28: 2031980602
+      SMW_player-pouse_Mario_29: -2138776186
       SMW_player-pouse_Mario_3: 6335374073159081962
+      SMW_player-pouse_Mario_30: -2102882716
+      SMW_player-pouse_Mario_31: -151716556
+      SMW_player-pouse_Mario_32: -953411950
+      SMW_player-pouse_Mario_33: -1555976705
+      SMW_player-pouse_Mario_34: -1073547987
+      SMW_player-pouse_Mario_35: -1573793704
+      SMW_player-pouse_Mario_36: 258264774
+      SMW_player-pouse_Mario_37: 1293927807
+      SMW_player-pouse_Mario_38: -1437866848
+      SMW_player-pouse_Mario_39: -1314904097
       SMW_player-pouse_Mario_4: -6207695806818027901
+      SMW_player-pouse_Mario_40: -207231890
+      SMW_player-pouse_Mario_41: -873775871
+      SMW_player-pouse_Mario_42: 640622071
+      SMW_player-pouse_Mario_43: 1955975963
+      SMW_player-pouse_Mario_44: -783187872
+      SMW_player-pouse_Mario_45: 665288510
+      SMW_player-pouse_Mario_46: 1677293959
+      SMW_player-pouse_Mario_47: 1978594023
       SMW_player-pouse_Mario_5: -8972116195172754971
       SMW_player-pouse_Mario_6: -8127751716131692075
       SMW_player-pouse_Mario_7: -2268960124090009934

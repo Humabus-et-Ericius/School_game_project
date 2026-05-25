@@ -5,17 +5,21 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
-  - Wall
+  - DeadZone
+  - Coin
+  - GlassTrigger
+  - FireWall
+  - JumpPud
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Back
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Glass
+  - Player
   - 
   - 
   - 
